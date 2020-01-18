@@ -46,7 +46,6 @@
  width:76%;
  border-radius:10px;
  margin: 1% 0% 1% 1%;
- padding: 1% 1% 1% 1%;
 }
 
 
@@ -81,12 +80,24 @@
   margin-bottom: 5px;
 }
 
-#villains
+.facts
 {
     background-color: #95FE73;
     width: 100%;
-    border-radius: 10px;
+    border-radius: 20px;
     padding: 5px 5px 5px 5px;
     text-align: center;
+    margin-bottom: 5px;
+    font-size: smaller;
 
+}
+
+#batmanimg
+{
+    height:150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    
 }
